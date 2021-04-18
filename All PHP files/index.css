@@ -1,0 +1,26 @@
+ .black_color
+{
+    color: black;
+}
+.welcome
+{
+    text-align: left;
+    color:black;
+    font-size: 30px;
+}
+body{
+    background-color: rgba(255,0,150,0.15);
+}
+.my_navbar
+{
+    background-color:green;
+}
+.navbar-toggle
+{
+     background-color:solid green; 
+    border: 1px solid green;
+}
+.navbar-toggle .icon-bar {
+    background-color: #030303;
+    border: 1px solid transparent;
+} 

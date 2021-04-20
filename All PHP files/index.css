@@ -13,12 +13,12 @@ body{
 }
 .my_navbar
 {
-    background-color:green;
+    background-color:rgb(11, 159, 196);
 }
 .navbar-toggle
 {
-     background-color:solid green; 
-    border: 1px solid green;
+     background-color:solid rgb(231, 190, 78); 
+    border: 1px solid rgb(146, 223, 59);
 }
 .navbar-toggle .icon-bar {
     background-color: #030303;

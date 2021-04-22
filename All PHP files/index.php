@@ -231,27 +231,6 @@ if(isset($_SESSION['email']))
             </div>
         </div>
     </div>
-     
-<footer>
-<div class="footer" style="width: 100%;background-color: rgba(0,0,0,0.78)">
-    <div class="row">
-        <div class="col-sm-3 col-sm-offset-1">
-            <p style="font-size:18px "><b style="color: white ">Information</b></p>
-            <a href="about.php" style="text-decoration:none;color:white" >About Us</a><br>
-            <a href="contact.php" style="text-decoration:none;color:white" >Contact Us</a>
-        </div>
-        <div class="col-sm-3 col-sm-offset-1">
-            <p style="font-size:18px "><b style="color: white ">My Account</b></p>
-            <a href=".modal" data-toggle="modal"  style="text-decoration:none;color:white">Login </a><br>
-            <a href="signup.php" style="text-decoration:none;color:white" >Signup</a>
-        </div>
-        <div class="col-sm-3 col-sm-offset-1">
-            <p style="font-size:18px "><b style="color: white ">Contact Us</b></p>
-            <p style="color: white"> Contact: +91-80777-875-875</p>
-        </div>
-    </div>
-</div>
-</footer> 
 </body>
 </html>
 
